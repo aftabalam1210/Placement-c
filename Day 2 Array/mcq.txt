@@ -1,0 +1,4 @@
+int a[10] = {8,6,4}
+#default array of array is Garrbagge.
+
+ printf("%ld", sizeof(printf("Wlecome"))); it will print 4 cuz size of interger is 4 and print prints integerr.

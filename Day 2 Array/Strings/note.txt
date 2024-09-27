@@ -1,0 +1,2 @@
+//strcmp returns the vale 0 when both the compare elemnts are same. else 1 if nt smae.
+    gets(c);//this is teh better option for using string input.

@@ -1,0 +1,22 @@
+struct////////////union
+
+1)Struct is the collection of predefined data type.
+
+syntax::: struct  structurename {
+    members;members can be data type variable.
+    //members cant be initialize;for eg int roll=2 not allowd.
+    //members are private to the structure.
+};
+
+4) structure cant have the function.
+5)structure can refere itself.
+6)since  members are wrapped in a structure it can be accessed    only by the referensing the dot or arrow.->
+eg;
+struct student s;
+s.rollno= 101;
+
+
+
+struct student *s1;
+s1->rollno=1;
+

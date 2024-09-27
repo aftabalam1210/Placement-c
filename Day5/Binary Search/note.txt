@@ -1,0 +1,2 @@
+//for binary search .
+Array must be sorted to work.

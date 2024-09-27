@@ -1,0 +1,26 @@
+types of pointres:
+
+1. wild pointres
+2. Null pointres
+3. Void pointres
+4. dangling pointres
+
+%p is use to show the exact loaction of variable in memory.
+%p stands for pointres data type;
+
+
+
+referencing ============> ntg bt address ->ptr;
+de-referencing------------->value of that address----->*ptr;
+
+
+
+
+operators on pointer:
+on pointers only this pointers will work::::
++,-,++,--
+
+
+
+free(ptr); // freeing heap ..............
+    ptr = NULL; // to stop the pointing and keeping the pointer away from dangling;;;;;

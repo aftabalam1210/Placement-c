@@ -1,0 +1,1 @@
+int sum(int); int main() { int b; b = sum(4); printf("%d", b); int sum(int x) { int k=1; if(x<=1) return 1; k = x + sum(x-1); return k; 1 2 12 3 4 13 14 5 6 7 8 9 10 11 15 }

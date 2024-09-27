@@ -1,0 +1,1 @@
+//wap to arrange all even numbers first followed by all the odd numbers. 
